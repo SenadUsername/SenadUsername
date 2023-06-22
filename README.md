@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SenadUsername
+- 👋 Hi, I’m @SenadUsername, bron 1985, Dipl. IT Eng.
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning about software architecture.
+- 🌱 I’m currently learning about advanced software architecture.
 - 💞️ I’m looking to collaborate on all sorts of c#, .Net, Visua Studio etc. software applications. My CV contains the details.
 - 📫 How to reach me: By any maens :)
 
